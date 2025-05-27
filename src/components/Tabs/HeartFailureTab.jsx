@@ -15,7 +15,7 @@ const HeartFailureTab = ({ active }) => {
           <div className="col-lg-4 col-md-4 text-center">
             <div className="rounded-circle overflow-hidden mx-auto shadow" style={{ width: '300px', height: '300px' }}>
               <img 
-                src="src/assets/images/heart.png" 
+                src="/images/heart.png" 
                 alt="Heart Failure" 
                 className="w-100 h-100 object-fit-cover"
               />

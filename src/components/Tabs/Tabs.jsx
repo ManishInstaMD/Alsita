@@ -14,21 +14,21 @@ const Tabs = () => {
   const tabData = [
     {
       id: "tab-2",
-      image: "src/assets/images/heart-failure.png",
+      image: "/images/heart-failure.png",
       alt: "Heart Failure",
       label: t("heartFailure"),
       component: <HeartFailureTab active={activeTab === "tab-2"} />,
     },
     {
       id: "tab-3",
-      image: "src/assets/images/ckd.png",
+      image: "/images/ckd.png",
       alt: "CKD",
       label: t("ckdLabel"),
       component: <CKDTab active={activeTab === "tab-3"} />,
     },
     {
       id: "tab-1",
-      image: "src/assets/images/diabetes.png",
+      image: "/images/diabetes.png",
       alt: "Diabetes",
       label: t("diabetesLabel"),
       component: <DiabetesTab active={activeTab === "tab-1"} />,
