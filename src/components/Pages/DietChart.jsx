@@ -2,10 +2,10 @@ import React from 'react';
 import {useTranslation} from 'react-i18next'
 
 const dietPlans = [
-  { calories: 1200, link: 'src/assets/images/en_1200_Final.pdf' },
-  { calories: 1400, link: 'src/assets/images/en_1400_Final.pdf' },
-  { calories: 1600, link: 'src/assets/images/en_1600_Final.pdf' },
-  { calories: 1800, link: 'src/assets/images/en_1800_Final.pdf' },
+  { calories: 1200, link: '/images/en_1200_Final.pdf' },
+  { calories: 1400, link: '/images/en_1400_Final.pdf' },
+  { calories: 1600, link: '/images/en_1600_Final.pdf' },
+  { calories: 1800, link: '/images/en_1800_Final.pdf' },
 ];
 
 const DietChart = () => {
@@ -16,7 +16,7 @@ const DietChart = () => {
       <div
         className="text-white text-center d-flex align-items-center justify-content-center"
         style={{
-          backgroundImage: "url('src/assets/images/about-empanorm.png')",
+          backgroundImage: "url('/images/about-empanorm.png')",
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           height: '300px',
