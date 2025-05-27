@@ -20,7 +20,7 @@ const Header = () => {
           <div className="col-md-4">
             <div className="logo">
               <img
-                src="src/assets/images/logo5.png"
+                src="/images/logo5.png"
                 alt="ALSITA-E"
                 width="200px"
               />

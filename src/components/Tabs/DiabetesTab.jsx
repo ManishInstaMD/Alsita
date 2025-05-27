@@ -27,7 +27,7 @@ const DiabetesTab = ({ active }) => {
           </div>
           <div className="col-lg-4 col-md-4 text-center">
             <img
-              src="src/assets/images/img1.png"
+              src="/images/img1.png"
               alt="Diabetes facts"
               className="img-fluid rounded shadow"
             />
@@ -63,7 +63,7 @@ const DiabetesTab = ({ active }) => {
         )}
         <br />
         <img
-          src="src/assets/images/info1.png"
+          src="/images/info1.png"
           alt="Diabetes Info"
           className="img-fluid d-block mx-auto rounded shadow"
         />
@@ -88,7 +88,7 @@ const DiabetesTab = ({ active }) => {
               <br />
               <br />
               <br />
-              <img src="src/assets/images/diabetes.png" alt="Diabetes" />
+              <img src="/images/diabetes.png" alt="Diabetes" />
             </div>
           </div>
           <div className="col-md-6">
@@ -112,7 +112,7 @@ const DiabetesTab = ({ active }) => {
         <div className="row align-items-center">
           <div className="col-lg-6 col-md-6 text-center">
             <img
-              src="src/assets/images/img2.png"
+              src="/images/img2.png"
               className="img-fluid rounded shadow"
               alt="Gestational Diabetes"
             />
@@ -148,7 +148,7 @@ const DiabetesTab = ({ active }) => {
             (tip, index) => (
               <div className="col-md-3" key={index}>
                 <img
-                  src={`src/assets/images/icon${index + 1}.png`}
+                  src={`/images/icon${index + 1}.png`}
                   className="img-fluid"
                 />
                 <p>{tip.title}</p>
@@ -205,7 +205,7 @@ const DiabetesTab = ({ active }) => {
                   <div className="col-lg-4 col-md-4 col-sm-12 col-12">
                     <div className="rs_text_set">
                       <img
-                        src="src/assets/images/icon6.png"
+                        src="/images/icon6.png"
                         className="img-fluid mb-2"
                         alt="Kidney Screening"
                       />
@@ -215,7 +215,7 @@ const DiabetesTab = ({ active }) => {
                   <div className="col-lg-4 col-md-4 col-sm-12 col-12">
                     <div className="rs_text_set">
                       <img
-                        src="src/assets/images/icon7.png"
+                        src="/images/icon7.png"
                         className="img-fluid mb-2"
                         alt="Eye Exams"
                       />
@@ -227,7 +227,7 @@ const DiabetesTab = ({ active }) => {
               <div className="col-lg-4 col-md-4 col-sm-12 col-12 text-center">
                 <div className="rs_round_set border rounded shadow-sm p-2">
                   <img
-                    src="src/assets/images/img4.png"
+                    src="/images/img4.png"
                     className="img-fluid rounded"
                     alt="Diagnosis"
                   />

@@ -45,7 +45,7 @@ const CKDTab = ({ active }) => {
           </div>
           <div className="col-lg-4 col-md-4 text-center">
             <img
-              src="src/assets/images/img10.png"
+              src="/images/img10.png"
               alt={t('ckd.title')}
               className="img-fluid rounded shadow"
             />
@@ -60,7 +60,7 @@ const CKDTab = ({ active }) => {
           {t('ckd.symptoms.description')}
         </p>
         <img
-          src="src/assets/images/ckd1.png"
+          src="/images/ckd1.png"
           alt={t('ckd.symptoms.title')}
           className="img-fluid d-block mx-auto shadow rounded"
           style={{ maxHeight: "400px" }}
@@ -108,7 +108,7 @@ const CKDTab = ({ active }) => {
           </div>
           <div className="col-lg-4 col-md-4 text-center">
             <img
-              src="src/assets/images/img12.png"
+              src="/images/img12.png"
               alt={t('ckd.treatments.title')}
               className="img-fluid rounded shadow"
             />
@@ -119,7 +119,7 @@ const CKDTab = ({ active }) => {
               <div className="row align-items-center">
                 <div className="col-lg-6 col-md-6 col-sm-12 text-center">
                   <img
-                    src="src/assets/images/img13.png"
+                    src="/images/img13.png"
                     alt={t('ckd.outlook.title')}
                     className="img-fluid rounded shadow"
                   />

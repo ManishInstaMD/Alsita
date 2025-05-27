@@ -36,7 +36,7 @@ const HeartFailureTab = ({ active }) => {
       <div className="container p-4 shadow-lg rounded bg-white">
         <h2 className="text-primary fw-bold mb-4">{t('heart.normalHeart.title')}</h2>
         <p className="text-muted">{t('heart.normalHeart.des1')}</p>
-        <img src="src/assets/images/heart_works.png" alt="Heart Function" className="img-fluid shadow rounded w-100"  style={{ maxHeight: '400px' }} />
+        <img src="/images/heart_works.png" alt="Heart Function" className="img-fluid shadow rounded w-100"  style={{ maxHeight: '400px' }} />
         <p className="mt-3 text-muted">{t('heart.normalHeart.des2')}</p>
         <p className="mt-3 text-muted">{t('heart.normalHeart.des3')}</p>
         <p className="mt-3 text-muted">{t('heart.normalHeart.des4')}</p>
@@ -54,7 +54,7 @@ const HeartFailureTab = ({ active }) => {
               </div>
               <div className="card-body text-center">
                 <img 
-                  src="src/assets/images/img7.png" 
+                  src="/images/img7.png" 
                   className="img-fluid mb-3" 
                   alt="Normal Heart" 
                   style={{ maxHeight: '250px' }} 
@@ -74,7 +74,7 @@ const HeartFailureTab = ({ active }) => {
               </div>
               <div className="card-body text-center">
                 <img 
-                  src="src/assets/images/img8.png" 
+                  src="/images/img8.png" 
                   className="img-fluid mb-3" 
                   alt="Heart Failure" 
                   style={{ maxHeight: '250px' }} 
@@ -92,7 +92,7 @@ const HeartFailureTab = ({ active }) => {
 
       <div className="container mt-5 p-4 bg-white rounded shadow-sm text-center">
         <h2 className="text-primary fw-bold mb-2">{t('heart.compensation.title')}</h2>
-        <img src="src/assets/images/img9.png" alt="Compensation Mechanism" className="img-fluid shadow rounded" style={{ maxHeight: '400px', }} />
+        <img src="/images/img9.png" alt="Compensation Mechanism" className="img-fluid shadow rounded" style={{ maxHeight: '400px', }} />
       </div>
 
       <div className="container p-3 shadow-lg rounded bg-white">
@@ -110,7 +110,7 @@ const HeartFailureTab = ({ active }) => {
             </ul>
           </div>
           <div className="col-lg-4 col-md-4 text-center">
-            <img src="src/assets/images/img6.png" alt="Heart Compensation" className="img-fluid rounded shadow" style={{ maxHeight: '300px' }} />
+            <img src="/images/img6.png" alt="Heart Compensation" className="img-fluid rounded shadow" style={{ maxHeight: '300px' }} />
           </div>
         </div>
       </div>

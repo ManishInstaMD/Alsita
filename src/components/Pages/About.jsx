@@ -16,7 +16,7 @@ const About = () => {
       >
         <h1 className="display-5 fw-bold">{t("about.para")}</h1>
         <img
-          src="src/assets/images/logo5.png"
+          src="/images/logo5.png"
           alt="logo5"
           className="img-fluid mt-3"
           style={{ maxHeight: "80px" }}
@@ -117,7 +117,7 @@ const About = () => {
             {/* Image */}
             <div className="text-center mb-4">
               <img
-                src="src/assets/images/empanorm3.png"
+                src="/images/empanorm3.png"
                 alt="empanorm1"
                 className="img-fluid rounded shadow"
               />
@@ -273,7 +273,7 @@ const About = () => {
             {/* Image */}
             <div className="text-center mb-4">
               <img
-                src="src/assets/images/empanorm4.png"
+                src="/images/empanorm4.png"
                 alt="empanorm2"
                 className="img-fluid rounded shadow"
               />

@@ -37,7 +37,7 @@ const Patient = () => {
               onClick={() => setShowDietChart(true)}
             >
               <img
-                src="src/assets/images/diet.png"
+                src="/images/diet.png"
                 alt="Diet Chart"
                 className="img-fluid mb-3"
               />
@@ -48,7 +48,7 @@ const Patient = () => {
           <div className="col-md-6 col-lg-4 mb-3">
             <div className="text-center border rounded p-4 shadow-sm h-100">
               <img
-                src="src/assets/images/dose.png"
+                src="/images/dose.png"
                 alt="Dosage Reminder"
                 className="img-fluid mb-3"
               />

@@ -9,7 +9,7 @@ const Banner = () => {
     <div
       className="rs_banner d-flex align-items-center text-center text-white"
       style={{
-        backgroundImage: "url('src/assets/images/home-bg.png')",
+        backgroundImage: "url('/images/home-bg.png')",
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         height: '60vh',

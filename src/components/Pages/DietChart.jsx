@@ -39,7 +39,7 @@ const DietChart = () => {
                 >
                   <div className="bg-light rounded-4 p-3 h-100 text-center">
                     <img
-                      src="src/assets/images/pdf.png"
+                      src="/images/pdf.png"
                       alt="PDF"
                       className="img-fluid mb-2"
                       style={{ maxWidth: '60px' }}
