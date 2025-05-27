@@ -284,20 +284,20 @@ const About = () => {
               <ul>
                 <li>
                   <a
-                    href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/204629s033lbl.pdf"
+                    href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/204629s033lbl.pdf. Cited on 14 Oct 2024"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Prescribing information Empagliflozin. Available here
+                   Prescribing information Empagliflozin. Available here.
                   </a>
                 </li>
                 <li>
                   <a
-                    href="https://www.ema.europa.eu/en/documents/product-information/Empagliflozin-epar-product-information_en.pdf"
+                    href=" https://www.ema.europa.eu/en/documents/product-information/Empagliflozin-epar-product-information_en.pdf Cited on 14 Oct 2024"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Summary of Product characteristics. Available here
+                    Summary of Product characteristics. Available here.
                   </a>
                 </li>
                 <li>
@@ -306,7 +306,7 @@ const About = () => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Sick Day Rules for people with type 2 diabetes taking a SGLT-2 Inhibitor
+                    Sick Day Rules for people with type 2 diabetes taking a SGLT-2 Inhibitor. Available here.
                   </a>
                 </li>
               </ul>
