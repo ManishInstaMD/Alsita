@@ -9,7 +9,7 @@ const About = () => {
       <div
         className=" text-white text-center py-5"
         style={{
-          backgroundImage: "url('src/assets/images/about-empanorm.png')",
+          backgroundImage: "url('/images/about-empanorm.png')",
           backgroundSize: "cover",
           backgroundPosition: "center",
         }}
