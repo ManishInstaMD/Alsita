@@ -171,6 +171,7 @@ const Header = () => {
                 <option value="en">English</option>
                 <option value="bn">Bengali</option>
                 <option value="gu">Gujarati</option>
+                <option value="as">Assamese</option>
                 <option value="hi">Hindi</option>
                 <option value="kn">Kannada</option>
                 <option value="ml">Malayalam</option>

@@ -7,7 +7,7 @@ import LanguageDetector from 'i18next-browser-languagedetector';
 
 //  Fix 1: `supportedLngs` should be declared as a normal variable
 const supportedLngs = [
-  "en", "hi", "bn", "gu", "kn", "ml", "mr", "or", "pa", "ta", "te"
+  "en", "hi", "bn", "gu", "kn", "ml", "mr", "or", "pa", "ta", "te","as"
 ];
 
 //  Fix 2: `whiteList` is deprecated, use `supportedLngs` instead
